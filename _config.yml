@@ -1,0 +1,79 @@
+typography_spectrum: 0.35989401575159463
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#FCEC68'
+    - '#98396D'
+    - '#E4A339'
+    - '#D5BECF'
+  brandStrength: 0.16878724545507812
+  lightness: 0.6012885646267545
+  saturation: 0.6186834472765463
+  rhythmicContrast: 0.7292825464959635
+layout_spectrum: 0.565941339210598
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd3e07e3-98cf-45b8-bb21-eebc6eacda5b.png
+name: Tellers.
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Growth hacking
+    id: e6110863-ff21-4c0d-8465-ff53bacf3b5c
+    type: content
+  - name: Storytelling
+    id: 5a2cddf0-4f79-483c-89bd-26267ad5a620
+    type: content
+  - name: 360'
+    id: 8f35641a-eaf3-4cb0-8221-b0078758f6ad
+    type: content
+  - name: Video
+    id: 7eecc121-a1ed-4450-80b4-5e4a0165c1fb
+    type: content
+  - name: Visuals
+    url: 'https://www.instagram.com/anadehtiarova/'
+    type: external
+  - name: About
+    id: 844f442e-aacb-422b-8ab7-ab0d2b4b9d53
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5a36981-e548-4547-ba49-d0be34195fe4.png
+title: Tellers.
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21b2ab29-b622-4aab-8b95-5c8cdfa4acc8.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/21b2ab29-b622-4aab-8b95-5c8cdfa4acc8.png
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Building stories that make impact.
+purpose:
+  - type: contact
+    url: 'mailto:anastasiia.dehtiarova@gmail.com'
+    label: Drop a line!
+github: true
+author:
+  name: Anastasia Dehtiarova
+  email: anastasiia.dehtiarova@gmail.com
