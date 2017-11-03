@@ -73,6 +73,9 @@ purpose:
   - type: contact
     url: 'mailto:anastasiia.dehtiarova@gmail.com'
     label: Drop a line!
+  - type: external
+    url: 'https://www.instagram.com/anastasiadht/'
+    label: Learn stuff!
 github: true
 author:
   name: Anastasia Dehtiarova
