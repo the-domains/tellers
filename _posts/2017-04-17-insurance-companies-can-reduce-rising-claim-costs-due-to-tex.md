@@ -5,8 +5,8 @@ description: >-
   cell phone behind the wheel. Nevertheless, according to statistics 37% of
   motorists can’t refrain from doing so. One of the main reasons is that people
   are addicted to use and consult their smartphones also while driving.
-dateModified: '2017-11-03T19:20:17.467Z'
-datePublished: '2017-11-03T19:20:18.269Z'
+dateModified: '2017-11-03T19:32:03.478Z'
+datePublished: '2017-11-03T19:32:05.325Z'
 title: Insurance companies can reduce rising claim costs due to texting while driving
 author: []
 publisher: {}
