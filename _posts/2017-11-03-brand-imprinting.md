@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Do you have a favourite shop you always buy your bread at? Or a hairdresser
   that was like love at the first sight?
-dateModified: '2017-11-03T19:30:30.140Z'
-datePublished: '2017-11-03T19:30:30.653Z'
+dateModified: '2017-11-03T19:32:03.478Z'
+datePublished: '2017-11-03T19:32:05.292Z'
 title: 'Brand Imprinting, or How To Make Them Fall In Love With You'
 author: []
 publisher: {}
