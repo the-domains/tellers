@@ -4,8 +4,8 @@ description: >-
   Internet becomes one of the main commodities in the modern society. We can't
   work without it, we can't study without it, our social life is greatly
   influenced by our connection to the web. 
-dateModified: '2017-11-03T19:20:17.467Z'
-datePublished: '2017-11-03T19:20:18.232Z'
+dateModified: '2017-11-03T19:32:03.478Z'
+datePublished: '2017-11-03T19:32:05.319Z'
 title: Where is the fastest internet?
 author: []
 publisher: {}
