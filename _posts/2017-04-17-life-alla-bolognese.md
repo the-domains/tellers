@@ -4,8 +4,8 @@ description: >-
   I’ve got a long-cherished idea to show how it is to live in Bologna, one of
   the most liberal, multicultural city, with thousands of students and plenty of
   activities every day. 
-dateModified: '2017-11-03T19:20:17.467Z'
-datePublished: '2017-11-03T19:20:18.150Z'
+dateModified: '2017-11-03T19:32:03.478Z'
+datePublished: '2017-11-03T19:32:05.304Z'
 title: Life alla bolognese
 author: []
 publisher: {}
