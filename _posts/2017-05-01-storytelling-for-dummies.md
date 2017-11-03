@@ -6,8 +6,8 @@ description: >-
   downloaded an e-book on building stories for brands. It seems to be so easy to
   implement this strategy in your content creation. And still, something is
   missing, something is not working out.
-dateModified: '2017-11-03T19:20:17.467Z'
-datePublished: '2017-11-03T19:20:18.283Z'
+dateModified: '2017-11-03T19:32:03.478Z'
+datePublished: '2017-11-03T19:32:05.292Z'
 title: Storytelling for dummies
 author: []
 publisher: {}
