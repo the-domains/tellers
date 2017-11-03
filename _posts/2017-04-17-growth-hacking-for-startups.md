@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Marketing is evolving at the speed of light: no longer we only print flyers
   and post product pictures on Facebook.
-dateModified: '2017-11-03T19:20:17.467Z'
-datePublished: '2017-11-03T19:20:18.283Z'
+dateModified: '2017-11-03T19:32:03.478Z'
+datePublished: '2017-11-03T19:32:05.292Z'
 title: Growth hacking for startups
 author: []
 publisher:
