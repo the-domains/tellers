@@ -13,7 +13,7 @@ color:
 layout_spectrum: 0.565941339210598
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd3e07e3-98cf-45b8-bb21-eebc6eacda5b.png
-name: Tellers.
+name: Tellers
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -75,7 +75,7 @@ purpose:
     label: "Drop a line \uD83D\uDD8A"
   - type: external
     url: 'https://www.instagram.com/anastasiadht/'
-    label: "Lear marketing stuff \uD83D\uDCDA"
+    label: "Learn marketing stuff \uD83D\uDCDA"
 github: true
 author:
   name: Anastasia Dehtiarova
