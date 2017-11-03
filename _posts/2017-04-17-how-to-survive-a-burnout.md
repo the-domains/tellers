@@ -4,8 +4,8 @@ description: >-
   You are a hard worker. Probably, even a workaholic. You can come back home
   from the office, open your laptop, sit and understand in half an hour that you
   are still wearing your coat. And only because your partner says you are.
-dateModified: '2017-11-03T19:20:17.467Z'
-datePublished: '2017-11-03T19:20:18.232Z'
+dateModified: '2017-11-03T19:32:03.478Z'
+datePublished: '2017-11-03T19:32:05.320Z'
 title: How to survive a burnout?
 author: []
 publisher: {}
