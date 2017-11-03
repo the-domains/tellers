@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Image via\_Unsplash"
-dateModified: '2017-11-03T18:49:11.070Z'
-datePublished: '2017-11-03T18:49:11.586Z'
+dateModified: '2017-11-03T19:20:17.467Z'
+datePublished: '2017-11-03T19:20:18.271Z'
 title: How to design virality in your product?
 author: []
 publisher: {}
