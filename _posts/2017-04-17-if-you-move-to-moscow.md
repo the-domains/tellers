@@ -1,71 +1,42 @@
 ---
-author:
-  - name: Wander Hackers
-    url: 'https://www.youtube.com/channel/UCBxk2KIkj7IqwjtzFTUnx5A'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
-keywords:
-  - moscow (russian federal city)
-  - digital nomads
-description: >-
-  Have you ever thought of if not moving to, at least going to Moscow? We have
-  prepared an amazing video about living there and check out the Special Article
-  related to the video in our Community here:
-  https://www.facebook.com/wanderhackers/ Thumbs up if you like the video format
-  and want some more!
-app_links:
-  - url: 'vnd.youtube://www.youtube.com/watch?v=eXrzXT2vJ8g&feature=applinks'
-    type: ios
-    namespace: ai
-    app_store_id: '544007664'
-    app_name: YouTube
-  - url: 'vnd.youtube://www.youtube.com/watch?v=eXrzXT2vJ8g&feature=applinks'
-    type: android
-    namespace: ai
-    app_name: YouTube
-    package: com.google.android.youtube
-  - url: 'https://www.youtube.com/watch?v=eXrzXT2vJ8g&feature=applinks'
-    type: web
-    namespace: ai
-  - url: 'vnd.youtube://www.youtube.com/watch?v=eXrzXT2vJ8g&feature=applinks'
-    namespace: twitter
-    type: ipad
-    name: YouTube
-    id: '544007664'
-  - url: 'vnd.youtube://www.youtube.com/watch?v=eXrzXT2vJ8g&feature=applinks'
-    namespace: twitter
-    type: iphone
-    name: YouTube
-    id: '544007664'
-  - url: 'https://www.youtube.com/watch?v=eXrzXT2vJ8g'
-    namespace: twitter
-    type: googleplay
-    name: YouTube
-    id: com.google.android.youtube
-  - path: http/www.youtube.com/watch?v=eXrzXT2vJ8g
-    package: com.google.android.youtube
-    namespace: google
-    type: android
-  - path: vnd.youtube/www.youtube.com/watch?v=eXrzXT2vJ8g
-    package: '544007664'
-    namespace: google
-    type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=eXrzXT2vJ8g&t=3s'
-title: If you move to Moscow
-datePublished: '2017-11-03T19:32:05.313Z'
-dateModified: '2017-11-03T19:32:03.478Z'
-via: {}
 inFeed: true
+description: >-
+  Moscow is a wonderful city, millions of people find here their future, make
+  their dreams come true, get better or worse, lose everything and create
+  themselves from zero.
+dateModified: '2017-11-03T19:32:03.478Z'
+datePublished: '2017-11-03T19:32:05.340Z'
+title: If you move to Moscow
+author: []
+publisher: {}
+via: {}
+hasPage: false
 sourcePath: _posts/2017-04-17-if-you-move-to-moscow.md
 starred: false
-datePublishedOriginal: '2017-04-17T18:10:41.404Z'
-_type: VideoObject
-_context: 'http://schema.org'
+datePublishedOriginal: '2017-04-17T18:05:43.761Z'
+_type: Blurb
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FeXrzXT2vJ8g%3Fstart%3D3%26feature%3Doembed%26start%3D3&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeXrzXT2vJ8g&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeXrzXT2vJ8g%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63a06632-d63f-40d9-a980-603b75cbbd56.jpg)
+
+# **If you move to Moscow**
+
+Moscow is a wonderful city, millions of people find here their future, make their dreams come true, get better or worse, lose everything and create themselves from zero.
+
+Your eyes will be immensely happy here: it's difficult to find better **views**. Buildings, monuments, generosity and peculiarities, it all has this nice folklore taste, enormousness impresses forever and among the ghosts of Soviet past you see the high-tech future.
+
+Mother nature is great here even though be prepared to see some dirty spots in the city.
+
+People here adore **sports**. Literally. And the government contributes to it much, optimizing spaces and creating the promotions like free yoga in the parks and free moving in suburban trains for cyclists.
+
+You can't be hungry here. Variety of national dishes and easy access to the shops confirm it. Some **supermarkets** are open 24 hours 7 days a week.
+
+There are 5 **airports** on the territory of Moscow and Moscow region. 
+
+As for the **transport**, on Sundays and holidays it's easy to find free parking. But traffic jam here is more than normal. Sometimes people are stuck for hours if it's weekend, hot seasons, holidays or just winter with meters of snow.
+
+And **metro** is spectacular, and I'm about to say why.This May it celebrated it's 80th birthday, it has nearly 200 stations and is the busiest outside of Asia. During the rush hours you won't wait for the next train for more than 2 minutes. Many stations are a real masterpiece, like Kievskaya, Bielorusskaya, Mayakovskaya and so on. Of course, it's not the safest place so you need to keep your eyes wide open.
+
+There are always numerous **events** here. And it's impossible to attend at least a 10th part.
+
+Moscow is **enjoyable, cruel, extravagant  and incredibly beautiful**. Being here is the experience that you are going to remember for the rest of your life.
