@@ -54,8 +54,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=mhsc_6O7iUc&t=2s'
 title: 7 magical traits of Brussels
-datePublished: '2017-11-03T19:20:18.189Z'
-dateModified: '2017-11-03T19:20:17.467Z'
+datePublished: '2017-11-03T19:32:05.293Z'
+dateModified: '2017-11-03T19:32:03.478Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-17-7-magical-traits-of-brussels.md
