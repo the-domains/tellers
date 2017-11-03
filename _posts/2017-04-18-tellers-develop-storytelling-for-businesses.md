@@ -1,8 +1,10 @@
 ---
 inFeed: true
-description: 'We tell stories, think in narratives and operate characters.'
-dateModified: '2017-11-03T18:51:33.439Z'
-datePublished: '2017-11-03T18:51:34.003Z'
+description: >-
+  We tell stories that make your customers fall in love with you, just like
+  people fall in love with puppies.
+dateModified: '2017-11-03T19:16:06.059Z'
+datePublished: '2017-11-03T19:16:06.647Z'
 title: ''
 author: []
 publisher: {}
@@ -15,10 +17,17 @@ url: tellers-develop-storytelling-for-businesses/index.html
 _type: Article
 
 ---
-We tell stories, think in narratives and operate characters.
+We tell stories that make your customers fall in love with you, just like people fall in love with puppies.
 
-Our founder, Anastasia, has been working in PR for more than 4 years, which taught her the best tricks of successful marketing.
+Do you want to seduce, engage, educate, benefit your client? 
 
-With the experience in creative fields, growth hacking and storytelling, Tellers will provide you with the best service to raise awareness about your brand.
+Do you want to grow a successful business focused on a great and only great customer experience?
 
-We speak 🇬🇧 🇮🇹 🇷🇺 🇫🇷 🇺🇦
+With a distinctive expertise in creative fields, growth hacking and storytelling, Tellers will provide you with the best service to raise awareness about your brand, engage customers and delight existing clients.
+
+We are a company with strong work ethics: we meet deadlines in advance, answer each email and prepare beautiful power points. 
+
+Talk to us in 🇬🇧 🇮🇹 🇷🇺 🇫🇷 🇺🇦
+
+**Our clients:**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e20d5c65-258b-4a18-902d-9af0d3e9ae9d.jpg)
