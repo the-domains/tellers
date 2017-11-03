@@ -1,19 +1,20 @@
 ---
 inFeed: true
 description: Brand Imprinting
-dateModified: '2017-11-03T18:39:45.738Z'
-datePublished: '2017-11-03T18:39:46.283Z'
+dateModified: '2017-11-03T18:40:44.879Z'
+datePublished: '2017-11-03T18:40:45.626Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-11-03-brand-imprinting.md
 starred: false
 datePublishedOriginal: '2017-11-03T18:39:46.283Z'
-sourcePath: _posts/2017-11-03-brand-imprinting.md
 _type: Blurb
 
 ---
 Brand Imprinting
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3a34d73-9bf0-476a-809f-ffbb070152eb.jpg)
 
 Do you have a favourite shop you always buy your bread at? Or a hairdresser that was like love at the first sight?
 
