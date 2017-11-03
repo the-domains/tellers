@@ -5,8 +5,8 @@ description: >-
   terms of business development? Well, usually you don't have many expectations
   about Porto before coming, this is why we guarantee you tons of unexpected
   discoveries.
-dateModified: '2017-11-03T19:20:17.467Z'
-datePublished: '2017-11-03T19:20:18.292Z'
+dateModified: '2017-11-03T19:32:03.478Z'
+datePublished: '2017-11-03T19:32:05.293Z'
 title: Why Porto is one of the best entrepreneurial cities?
 author: []
 publisher: {}
