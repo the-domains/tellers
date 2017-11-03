@@ -1,15 +1,15 @@
 ---
 inFeed: true
-description: Image via Unsplash
-dateModified: '2017-11-03T18:48:39.788Z'
-datePublished: '2017-11-03T18:48:40.592Z'
+description: "Image via\_Unsplash"
+dateModified: '2017-11-03T18:49:11.070Z'
+datePublished: '2017-11-03T18:49:11.586Z'
 title: How to design virality in your product?
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-11-03-how-to-design-virality-in-your-product.md
 starred: false
 datePublishedOriginal: '2017-11-03T18:48:40.592Z'
-sourcePath: _posts/2017-11-03-how-to-design-virality-in-your-product.md
 _type: Blurb
 
 ---
@@ -84,6 +84,8 @@ See the formula of David Skok from Matrix Ventures to calculate the amount of us
 
 "Getting viral" is not an unreachable Neverland. Using the techniques and focusing on the actual value businesses can give to their users and potential customers can create the desired virality and spread the word about the product or service with the speed of light.
 
+[Originally created for Pixelgenie.][9]
+
 [0]: https://blog.kissmetrics.com/science-of-virality/
 [1]: https://news.greylock.com/the-five-types-of-virality-8ba42051928d
 [2]: http://www.nielsen.com/us/en/insights/news/2013/under-the-influence-consumer-trust-in-advertising.html
@@ -93,3 +95,4 @@ See the formula of David Skok from Matrix Ventures to calculate the amount of us
 [6]: http://www.slate.com/articles/technology/technology/2013/01/google_people_operations_the_secrets_of_the_world_s_most_scientific_human.html
 [7]: https://www.shopify.com/free-trial/merchant?ssid=10267c466190eea120e25cf0cc2ed2&signup_code=%7Bsignup_code%7D&ref=ecomplatforms
 [8]: https://giphy.com/dominosukroi
+[9]: https://medium.com/pixelgenie/how-to-design-a-virality-in-your-product-bec5c256c008
