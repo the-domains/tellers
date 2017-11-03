@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Referred customer is expected to have at least a 16% higher lifetime value
   than customers acquired through other means.
-dateModified: '2017-11-03T19:20:17.467Z'
-datePublished: '2017-11-03T19:20:18.190Z'
+dateModified: '2017-11-03T19:32:03.478Z'
+datePublished: '2017-11-03T19:32:05.304Z'
 title: How to use referral marketing to increase sales for your ecommerce store?
 author: []
 publisher: {}
