@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Images: Unsplash'
-dateModified: '2017-11-03T19:20:17.467Z'
-datePublished: '2017-11-03T19:20:18.189Z'
+dateModified: '2017-11-03T19:32:03.478Z'
+datePublished: '2017-11-03T19:32:05.325Z'
 title: The 5 best ways fleet managers can prevent car crashes
 author: []
 publisher: {}
